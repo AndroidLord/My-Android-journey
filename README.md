@@ -1,2 +1,2 @@
 # My-Android-journey
-These are Android Projects
+These are My Android Projects
